@@ -4,6 +4,10 @@ Application encore en developpement ...
 
 **Idéator Local** est une application moderne conçue pour collecter, classer et explorer vos idées de projets, tâches ou inspirations, le tout en mode autonome et sans connexion Internet. 🚀  
 
+
+![Capture d’écran du 2025-01-13 11-11-09](https://github.com/user-attachments/assets/e75afd47-ec79-4806-a5bc-18b6dbb57509)
+
+
 ---
 
 ## ✨ Fonctionnalités principales
