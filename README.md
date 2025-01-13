@@ -1,3 +1,4 @@
+Application encore en developpement ...
 ```markdown
 # 🌟 Idéator Local
 
@@ -48,7 +49,7 @@
 ### Étapes
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/ideator-local.git
+   git clone git@github.com:DanihStephane/Ideator-Platform.git
    cd ideator-local
    ```
 2. Installez les dépendances :
@@ -68,6 +69,12 @@
 - **Stockage local** : IndexedDB
 - **Visualisation des données** : Chart.js
 - **Exportation/Importation** : FileSaver.js
+  
+  - React 18
+  - TypeScript
+  - Tailwind CSS
+  - Lucide React (icons)
+  - Vite
 
 ---
 
@@ -83,9 +90,14 @@ Les contributions sont les bienvenues ! Voici comment vous pouvez contribuer :
 
 ---
 
-## 📜 Licence
+## 📝 License
 
-Ce projet est sous licence [MIT](./LICENSE).
+ `LICENSE` free: https://github.com/DanihStephane.
+
+## 📞 Contact
+
+Pour toute question ou suggestion, n'hésitez pas à :
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
 
 ---
 
