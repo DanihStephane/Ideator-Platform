@@ -107,5 +107,5 @@ Pour toute question ou suggestion, n'hésitez pas à :
 
 ## 🌟 Auteur
 
-Développé avec ❤️ par [Votre Nom](https://github.com/votre-utilisateur). N’hésitez pas à me contacter pour toute question ou suggestion !
+Développé avec ❤️ par [Danih Stephane](https://danihstephane.github.io/). N’hésitez pas à me contacter pour toute question ou suggestion !
 ```
